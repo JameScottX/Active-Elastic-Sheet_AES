@@ -1,0 +1,26 @@
+Webots Project File version R2020a
+perspectives: 000000ff00000000fd00000002000000000000000000000000fc0100000001fb0000001a0044006f00630075006d0065006e0074006100740069006f006e0000000000ffffffff0000006900ffffff0000000100000265000003ecfc0200000001fc0000001a000003ec000000a40100001cfa000000000100000002fb0000000e0043006f006e0073006f006c00650100000000ffffffff0000006900fffffffb0000001400540065007800740045006400690074006f007201000006650000011c0000007700ffffff0000051a000003ec00000001000000020000000100000008fc00000000
+simulationViewPerspectives: 000000ff0000000100000002000001c5000002df0100000002010000000100
+sceneTreePerspectives: 000000ff0000000100000002000000c0000000fa0100000002010000000200
+maximizedDockId: -1
+centralWidgetVisible: 1
+selectionDisabled: 0
+viewpointLocked: 0
+orthographicViewHeight: 1
+textFiles: 0 "controllers/unit/unit.py"
+renderingDevicePerspectives: e-puck(7):camera;1;1;0;0
+renderingDevicePerspectives: e-puck(14):camera;1;1;0;0
+renderingDevicePerspectives: e-puck(5):camera;1;1;0;0
+renderingDevicePerspectives: e-puck(8):camera;1;1;0;0
+renderingDevicePerspectives: e-puck(1):camera;1;1;0;0
+renderingDevicePerspectives: e-puck(3):camera;1;1;0;0
+renderingDevicePerspectives: e-puck(11):camera;1;1;0;0
+renderingDevicePerspectives: e-puck(4):camera;1;1;0;0
+renderingDevicePerspectives: e-puck(2):camera;1;1;0;0
+renderingDevicePerspectives: e-puck(12):camera;1;1;0;0
+renderingDevicePerspectives: e-puck(13):camera;1;1;0;0
+renderingDevicePerspectives: e-puck(9):camera;1;1;0;0
+renderingDevicePerspectives: e-puck(10):camera;1;1;0;0
+renderingDevicePerspectives: e-puck(15):camera;1;1;0;0
+renderingDevicePerspectives: e-puck(16):camera;1;1;0;0
+renderingDevicePerspectives: e-puck(6):camera;1;1;0;0
